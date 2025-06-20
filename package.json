@@ -1,0 +1,16 @@
+{
+  "name": "minha-app",
+  "version": "1.0.0",
+  "description": "Aplicação Node.js de exemplo com Docker",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.4"
+  }
+}
+
